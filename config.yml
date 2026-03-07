@@ -10,12 +10,12 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: paydovan
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
-  tagline: "Full Stack Developer & Open Source Explorer"
+  name: "Padovan.php"
+  tagline: "Full Stack Developer & CyberSecurity Explorer"
   company: "Stellar Labs"
   location: "San Francisco, CA"
   bio: |
