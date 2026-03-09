@@ -16,18 +16,19 @@ username: paydovan
 profile:
   name: "Padovan.php"
   tagline: "Full Stack Developer & CyberSecurity Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  company: "Freelancer"
+  location: ""
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
-  philosophy: '"The best code is the code that empowers others."'
+    Full Stack Developer focused on building modern and efficient web applications.
+    Experienced with React, Next.js, Node.js, .NET and Laravel ecosystems.
+    Curious about cybersecurity and always exploring how systems work under the hood.
+  philosophy: '"Understand how things break to learn how to build them better."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: ""
+  linkedin: ""
+  website: "https://paydovan.github.io/padovan-portfolio/"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -39,18 +40,28 @@ galaxy_arms:
       - "TypeScript"
       - "React"
       - "CSS"
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "React"
+      - "Next.js"
+      - "TailwindCSS"
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Python"
       - "Node.js"
-      - "PostgreSQL"
-  - name: "DevOps"
+      - "Fastify"
+      - ".NET"
+      - "Laravel"
+      - "Livewire"
+
+  - name: "CyberSecurity"
     color: "axon_amber"
     items:
-      - "Docker"
-      - "GitHub Actions"
-      - "AWS"
+      - "Web Security"
+      - "API Security"
+      - "Authentication"
+      - "JWT"
 
 # Featured projects shown as constellation stars
 # Each project needs:
@@ -58,12 +69,13 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "galaxy-dev/nebula-ui"
-    arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
+  - repo: "paydovan/api-in.orbit"
     arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
+    description: "API and frontend for weekly goal tracking using advanced SQL with Common Table Expressions for optimized responses."
+
+  - repo: "paydovan/padovan-portfolio"
+    arm: 0
+    description: "Modern developer portfolio built with contemporary web technologies and responsive design."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
