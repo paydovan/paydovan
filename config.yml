@@ -37,12 +37,6 @@ galaxy_arms:
   - name: "Frontend"
     color: "dendrite_violet"
     items:
-      - "TypeScript"
-      - "React"
-      - "CSS"
-  - name: "Frontend"
-    color: "dendrite_violet"
-    items:
       - "React"
       - "Next.js"
       - "TailwindCSS"
@@ -52,7 +46,6 @@ galaxy_arms:
       - "Node.js"
       - ".NET"
       - "Laravel"
-
   - name: "CyberSecurity"
     color: "axon_amber"
     items:
