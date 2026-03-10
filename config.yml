@@ -50,18 +50,15 @@ galaxy_arms:
     color: "synapse_cyan"
     items:
       - "Node.js"
-      - "Fastify"
       - ".NET"
       - "Laravel"
-      - "Livewire"
 
   - name: "CyberSecurity"
     color: "axon_amber"
     items:
       - "Web Security"
-      - "API Security"
-      - "Authentication"
-      - "JWT"
+      - "Pentest"
+      - "Linux"
 
 # Featured projects shown as constellation stars
 # Each project needs:
